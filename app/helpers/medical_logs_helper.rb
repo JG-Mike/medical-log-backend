@@ -1,0 +1,2 @@
+module MedicalLogsHelper
+end
