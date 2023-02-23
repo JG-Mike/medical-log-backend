@@ -1,0 +1,2 @@
+class NurseMedicalLog < ApplicationRecord
+end
