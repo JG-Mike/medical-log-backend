@@ -1,7 +1,7 @@
 class CreateStaffs < ActiveRecord::Migration[6.1]
   def change
     create_table :staffs do |t|
-      t.interger :staff-id
+      t.integer :staff_id
       t.string :name
       t.string :picture
 

@@ -1,8 +1,8 @@
 class CreateNurseMedicalLogs < ActiveRecord::Migration[6.1]
   def change
     create_table :nurse_medical_logs do |t|
-      t.interger :nurse-id
-      t.interger :medical-log-id
+      t.integer :nurse_id
+      t.integer :medical_log_id
 
       t.timestamps
     end
