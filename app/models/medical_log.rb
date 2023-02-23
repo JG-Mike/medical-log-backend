@@ -1,2 +1,0 @@
-class MedicalLog < ApplicationRecord
-end

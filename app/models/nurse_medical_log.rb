@@ -1,2 +1,0 @@
-class NurseMedicalLog < ApplicationRecord
-end
